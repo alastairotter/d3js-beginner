@@ -1,0 +1,7 @@
+# Getting started with D3.js
+
+Before you can start using D3.js to build visualisations you need to include the library in your project. There are a couple of different ways to do this. The first is to visit the D3js.org website and download a copy of the library. The D3js.org homepage has a link to a zipped version of the latest D3.js release. You can download that and uncompress it in your working directory. 
+
+The second way to get hold of D3.js is to link to a CDN (content delivery network) version of the file. This version is hosted on a high-performance network that means that you don't need to have a physical version of the file on your local machine ot
+Including it in a file
+
